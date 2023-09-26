@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Mori</h1>
+<h1 align="center">Hi there 👋, I'm Misato Hagihara!</h1>
 <h3 align="center">An enthusiastic web application developer</h3>
 
 
