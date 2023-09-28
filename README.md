@@ -1,12 +1,15 @@
 <h1 align="center">Hi there 👋, I'm Misato!</h1>
 <h3 align="center">An enthusiastic web application developer from Japan and Switzerland</h3>
 
-- 🔭 I’m currently working on [YONDE](https://github.com/morihagi/yonde_develop)
-- 🌱 I’m currently learning **Ruby on Rails and Vue.js**
-- 📝 I regularly write articles on [qiita](https://qiita.com/morihagi) and [zenn](https://zenn.dev/morihagi)
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/misato-hagihara/)
-- 😄 Pronouns: she/ her
-- ⚡ Fun fact: I genuinely love K-pop
+🔭 I’m currently working on [YONDE](https://github.com/morihagi/yonde_develop)
+
+🌱 I’m currently learning **Ruby on Rails and Vue.js**
+
+📝 I regularly write articles on [qiita](https://qiita.com/morihagi) and [zenn](https://zenn.dev/morihagi)
+
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/misato-hagihara/)
+
+⚡ Fun fact: I genuinely love K-pop
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morihagi&layout=compact&show_icons=true&column=3" />
