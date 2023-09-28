@@ -1,12 +1,17 @@
 <h1 align="center">Hi there 👋, I'm Misato Hagihara!</h1>
 <h3 align="center">An enthusiastic web application developer</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morihagi
-)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=morihagi)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morihagi&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=morihagi&show_icons=ture" />
+</p>
 
 <!--
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morihagi
+)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=morihagi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 **morihagi/morihagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
