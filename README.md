@@ -1,6 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Misato Hagihara!</h1>
 <h3 align="center">An enthusiastic web application developer</h3>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morihagi
+)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
