@@ -9,8 +9,6 @@
 
 📝 I regularly write articles on [qiita](https://qiita.com/morihagi) and [zenn](https://zenn.dev/morihagi)  
 
-📫 How to reach me: [Linkedin](https://www.linkedin.com/in/misato-hagihara/)
-
 ⚡ Fun fact: I genuinely love K-pop
 
 <div align="center">
