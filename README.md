@@ -1,6 +1,6 @@
 <div align="center">  
   <h1>Hi there 👋, I'm Misato!</h1>
-  <h3>An enthusiastic web application developer from Japan and Switzerland</h3>
+  <h3>An enthusiastic web application developer</h3>
 </div> 
 
 🔭 I’m currently working on [YONDE](https://github.com/morihagi/yonde_develop)
