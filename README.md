@@ -9,7 +9,7 @@
 
 📝 I regularly write articles on [qiita](https://qiita.com/morihagi) and [zenn](https://zenn.dev/morihagi)  
 
-⚡ Fun fact: I genuinely love K-pop
+⚡ Fun fact: German language speaker with a little Swiss German and K-pop lover
 
 <div align="center">
 
