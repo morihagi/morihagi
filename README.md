@@ -7,7 +7,7 @@
 
 🌱 I’m currently learning **Ruby on Rails and Vue.js**
 
-📝 I regularly write articles on [qiita](https://qiita.com/morihagi) and [zenn](https://zenn.dev/morihagi)  
+📝 I regularly write articles on [qiita](https://qiita.com/morihagi) and [zenn](https://zenn.dev/morihagi)  (only in Japanese🙏)
 
 ⚡ Fun fact: German language speaker with a little Swiss German and K-pop lover
 
