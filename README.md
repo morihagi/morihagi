@@ -5,7 +5,7 @@
 
 🔭 I’m currently working on [YONDE](https://github.com/morihagi/yonde_develop)
 
-🌱 I’m currently learning **Ruby on Rails and Vue.js**
+🌱 I’m currently learning **Ruby on Rails and ReactJS!**
 
 📝 I regularly write articles on [qiita](https://qiita.com/morihagi) and [zenn](https://zenn.dev/morihagi)  (only in Japanese🙏)
 
