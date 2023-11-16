@@ -1,15 +1,25 @@
-<div align="center">  
-  <h1>Hi there 👋, I'm M.H!</h1>
-  <h3>An enthusiastic web application developer</h3>
-</div> 
+## Hi there, I'm Misa 👋  
+### An enthusiastic web application developer
+- 🔭 I’m currently working on [YONDE](https://github.com/morihagi/yonde_develop) with **Ruby on Rails** 
+- 🌱 I’m currently learning **TypeScript** and **React**
+- 📝 I regularly write articles on [Qiita](https://qiita.com/morihagi) and [Zenn](https://zenn.dev/morihagi)  (only in Japanese🙏)
+- ⚡ Fun fact: German language speaker with a little Swiss German and K-pop lover
 
-🔭 I’m currently working on [YONDE](https://github.com/morihagi/yonde_develop)
+<!--
+  [![My Qiita contributions](http://qiita-badge.apiapi.app/s/morihagi/contributions.svg)](http://qiita.com/morihagi) 
+-->
 
-🌱 I’m currently learning **Ruby on Rails and ReactJS!**
+## Skills
+### Main Skills
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ruby,rails)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
 
-📝 I regularly write articles on [qiita](https://qiita.com/morihagi) and [zenn](https://zenn.dev/morihagi)  (only in Japanese🙏)
+### Sub Skills
+  [![My Skills](https://skillicons.dev/icons?i=py,django,nodejs,ts)](https://skillicons.dev)
 
-⚡ Fun fact: German language speaker with a little Swiss German and K-pop lover
+### Tools
+  [![My Skills](https://skillicons.dev/icons?i=github,docker,aws,postman,figma)](https://skillicons.dev)　<img width="300px" alt="Codewars statistics" src="https://www.codewars.com/users/morihagi/badges/large">  
+
 
 <div align="center">
 
@@ -18,3 +28,4 @@
   [![](https://raw.githubusercontent.com/morihagi/morihagi/main/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/morihagi/morihagi/main/profile-summary-card-output/nord_bright/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
+
